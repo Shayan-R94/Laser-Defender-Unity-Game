@@ -1,0 +1,35 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shayan\Documents\Unity (udemy)\Unity 4.6.X\Laser Defender\Laser Defender_Data\Managed\System.dll (this message is harmless)
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 12.627452 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.730619 ms (FindLiveObjects: 0.011705 ms CreateObjectMapping: 0.011705 ms MarkObjects: 0.144991 ms  DeleteObjects: 0.004530 ms)
+
+MusicPlayer: loaded level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
